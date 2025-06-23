@@ -1,0 +1,15 @@
+{
+  "name": "firstglobal-trust",
+  "version": "1.0.0",
+  "description": "Simple bank backend with multi-language and customer support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
